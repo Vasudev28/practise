@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Masala Junction</title>
+    <style>
+        h1,h2,h3,pre{
+            margin-left: 35%;
+            font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        #one{
+            margin-left: 35%;
+            font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+    </style>   
+</head>
+<body>
+  <h1>Masala Junction</h1>
+  <h2>Everydish tells a story of traditon and taste.</h2>
+  <h2>Menu</h2>
+  <u><h3>Veg Menu</h3></u>
+  <pre>1) Litti Choka
+       2) Dilli's Chole Kulcha
+       3) Andhra's Raagi Sangati
+       4) Telangana's Pachi Pulusu
+       5) Jammu&Kashmir's Dum Olav
+  </pre>
+  <u><h3>Non-Veg Menu</h3></u>
+  <pre>
+        1) Hyderabadi Mutton Biryani
+       2) Lucknowi Kebab
+       3) Punjab's Tandoori Chicken
+       4) Jammu&Kashmir's Rogan Josh
+       5) Maharashtrian Kolhapuri Fish
+  </pre>
+  <u><h3>Timings</h3></u>
+    <pre id="one"><h4>Saturday-Sunday: 10:00 Am to 5:30 Pm</h4>
+        <h4>Monday-Friday: 10:00 Am to 9:30 Pm</h4>
+    </pre>
+    <h3>Contact:</h3>
+       <pre><b>+91-90804 XXXXX</b>    <b>040-2142 XXXX</b>
+            <b>+91-73470 XXXXX</b>
+        </pre>
+</body>
+</html>
